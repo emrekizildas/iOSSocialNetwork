@@ -1,0 +1,120 @@
+
+/* Class = "UILabel"; text = "0"; ObjectID = "2K0-oi-CrO"; */
+"2K0-oi-CrO.text" = "0";
+
+/* Class = "UITabBarItem"; title = "Bağlan"; ObjectID = "5EO-a3-C8c"; */
+"5EO-a3-C8c.title" = "Bağlan";
+
+/* Class = "UITextField"; placeholder = "Şifre"; ObjectID = "5nB-y7-u7b"; */
+"5nB-y7-u7b.placeholder" = "Şifre";
+
+/* Class = "UINavigationItem"; title = "Users"; ObjectID = "6X4-A8-VzU"; */
+"6X4-A8-VzU.title" = "Users";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6iN-2e-5G8"; */
+"6iN-2e-5G8.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Ekle!"; ObjectID = "9Fw-A4-Jt4"; */
+"9Fw-A4-Jt4.normalTitle" = "Ekle!";
+
+/* Class = "UILabel"; text = "icerik"; ObjectID = "9Wg-Ia-FHW"; */
+"9Wg-Ia-FHW.text" = "icerik";
+
+/* Class = "UINavigationItem"; title = "Öne Çıkanlar"; ObjectID = "9yE-b5-VH3"; */
+"9yE-b5-VH3.title" = "Öne Çıkanlar";
+
+/* Class = "UILabel"; text = "Hiç tecrübe eklenmemiş"; ObjectID = "BD4-Ne-Zay"; */
+"BD4-Ne-Zay.text" = "Hiç tecrübe eklenmemiş";
+
+/* Class = "UIButton"; normalTitle = "    Profil Fotoğrafı Seç"; ObjectID = "BzM-Ep-kSS"; */
+"BzM-Ep-kSS.normalTitle" = "    Profil Fotoğrafı Seç";
+
+/* Class = "UILabel"; text = "Tecrübe"; ObjectID = "EKZ-GS-o7r"; */
+"EKZ-GS-o7r.text" = "Tecrübe";
+
+/* Class = "UILabel"; text = "tecrube_icerik"; ObjectID = "Gxd-tP-zuT"; */
+"Gxd-tP-zuT.text" = "tecrube_icerik";
+
+/* Class = "UINavigationItem"; title = "Tecrübe Ekle"; ObjectID = "Ite-Mo-ZQS"; */
+"Ite-Mo-ZQS.title" = "Tecrübe Ekle";
+
+/* Class = "UIButton"; normalTitle = "GİRİŞ YAP"; ObjectID = "J3o-PR-PfA"; */
+"J3o-PR-PfA.normalTitle" = "GİRİŞ YAP";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "MEK-Ew-BSP"; */
+"MEK-Ew-BSP.text" = "0";
+
+/* Class = "UITextView"; text = "İçerik giriniz..."; ObjectID = "TEq-mU-FyD"; */
+"TEq-mU-FyD.text" = "İçerik giriniz...";
+
+/* Class = "UIButton"; normalTitle = "KAYDOL"; ObjectID = "USw-dn-Ava"; */
+"USw-dn-Ava.normalTitle" = "KAYDOL";
+
+/* Class = "UITextField"; placeholder = "Ad Soyad"; ObjectID = "Ugk-6b-4ea"; */
+"Ugk-6b-4ea.placeholder" = "Ad Soyad";
+
+/* Class = "UIBarButtonItem"; title = "Çıkış"; ObjectID = "V6K-Id-bYS"; */
+"V6K-Id-bYS.title" = "Çıkış";
+
+/* Class = "UILabel"; text = "Takip"; ObjectID = "VSB-4Z-PnE"; */
+"VSB-4Z-PnE.text" = "Takip";
+
+/* Class = "UITextField"; placeholder = "E-Posta Adresi"; ObjectID = "VoO-mc-8wI"; */
+"VoO-mc-8wI.placeholder" = "E-Posta Adresi";
+
+/* Class = "UILabel"; text = "Baslik"; ObjectID = "Vx5-z2-ItD"; */
+"Vx5-z2-ItD.text" = "Baslik";
+
+/* Class = "UIButton"; normalTitle = "Giriş Yap"; ObjectID = "Ywb-0Y-dzj"; */
+"Ywb-0Y-dzj.normalTitle" = "Giriş Yap";
+
+/* Class = "UIButton"; normalTitle = "Kayıt Ol"; ObjectID = "aty-OA-gY2"; */
+"aty-OA-gY2.normalTitle" = "Kayıt Ol";
+
+/* Class = "UITextField"; placeholder = "Başlık giriniz"; ObjectID = "doi-dI-b62"; */
+"doi-dI-b62.placeholder" = "Başlık giriniz";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ftU-FD-nhO"; */
+"ftU-FD-nhO.text" = "Label";
+
+/* Class = "UILabel"; text = "Takipçi"; ObjectID = "gej-UM-JRW"; */
+"gej-UM-JRW.text" = "Takipçi";
+
+/* Class = "UILabel"; text = "tecrube_baslik"; ObjectID = "izP-KL-L6w"; */
+"izP-KL-L6w.text" = "tecrube_baslik";
+
+/* Class = "UITextField"; placeholder = "parola"; ObjectID = "jBC-Uu-xFp"; */
+"jBC-Uu-xFp.placeholder" = "parola";
+
+/* Class = "UINavigationItem"; title = "Kaydol"; ObjectID = "je9-5c-52M"; */
+"je9-5c-52M.title" = "Kaydol";
+
+/* Class = "UIButton"; normalTitle = "Galeriyi aç"; ObjectID = "jeM-MW-Z6T"; */
+"jeM-MW-Z6T.normalTitle" = "Galeriyi aç";
+
+/* Class = "UILabel"; text = "Ad Soyad"; ObjectID = "m5y-St-WdO"; */
+"m5y-St-WdO.text" = "Ad Soyad";
+
+/* Class = "UITabBarItem"; title = "Öne Çıkanlar"; ObjectID = "nqc-ic-0hZ"; */
+"nqc-ic-0hZ.title" = "Öne Çıkanlar";
+
+/* Class = "UINavigationItem"; title = "Ben"; ObjectID = "owJ-Qz-zNx"; */
+"owJ-Qz-zNx.title" = "Ben";
+
+/* Class = "UITabBarItem"; title = "Ben"; ObjectID = "rtI-nH-54n"; */
+"rtI-nH-54n.title" = "Ben";
+
+/* Class = "UINavigationItem"; title = "Tecrübe"; ObjectID = "tH0-aP-nTS"; */
+"tH0-aP-nTS.title" = "Tecrübe";
+
+/* Class = "UITextField"; placeholder = "kullanıcı adı"; ObjectID = "uqU-tX-Nkz"; */
+"uqU-tX-Nkz.placeholder" = "kullanıcı adı";
+
+/* Class = "UINavigationItem"; title = "Giriş Yap"; ObjectID = "xC3-Y2-6dv"; */
+"xC3-Y2-6dv.title" = "Giriş Yap";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "yBq-4n-ycN"; */
+"yBq-4n-ycN.text" = "0";
+
+/* Class = "UILabel"; text = "Ad Soyad"; ObjectID = "zCv-WY-P8b"; */
+"zCv-WY-P8b.text" = "Ad Soyad";
